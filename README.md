@@ -3,6 +3,8 @@
   
 
 </div>
-  <h3>My Experiences/h3>
+  <h3>My Experiences</h3>
+    <br>
+    <br>
     <br>
 <img src='https://skillicons.dev/icons?i=cpp,html,css,js,php,java,sql' alt='languages'/>
